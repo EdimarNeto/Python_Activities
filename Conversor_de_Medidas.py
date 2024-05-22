@@ -1,4 +1,4 @@
-m = float(input('Diga a distâcia em Metros para converter em outros valores: '))
+m = float(input('Digite a distâcia em Metros para converter em outros valores: '))
 cm = m * 100
 mm = m * 1000
 dc = m / 100
