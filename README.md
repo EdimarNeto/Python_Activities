@@ -1,3 +1,2 @@
 # Python_Activities
-Pequenos projetos Python para ajudar novos estudantes, ou quem gostar de ver 
-projetos simples com poucas linhas para fácil entendimento.
+Pequenos projetos Python que uso apenas para testar funções do Git
